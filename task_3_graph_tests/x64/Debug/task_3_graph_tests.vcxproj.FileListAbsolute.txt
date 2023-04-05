@@ -1,0 +1,1 @@
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\С++\task3_graph\task_3_graph_tests\x64\Debug\task_3_graph_tests.vcxproj.CopyComplete

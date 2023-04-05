@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Users\romse\OneDrive\Рабочий стол\3 курс\С++\task3_graph\x64\Debug\task_3_graph_tests.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="TestCaseName.TestName" Duration="1" />
+    <TestDuration Test="Method1.Graph" Duration="1" />
+    <TestDuration Test="Method2.Graph" Duration="1" />
+    <TestDuration Test="Method3.Graph" Duration="1" />
+    <TestDuration Test="Method4.Graph" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>

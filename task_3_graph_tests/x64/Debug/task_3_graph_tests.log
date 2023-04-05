@@ -1,0 +1,15 @@
+﻿  test.cpp
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\С++\task3_graph\task3_graph\graph.h(18,11): error C2061: синтаксическая ошибка: идентификатор "cvector"
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\С++\task3_graph\task3_graph\graph.h(36,2): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<T>"
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\С++\task3_graph\task3_graph\graph.h(20,5): error C2535: Graph<T>::Graph(void): функция-член уже определена или объявлена
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\С++\task3_graph\task3_graph\graph.h(18,5): message : см. объявление "Graph<T>::Graph"
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\С++\task3_graph\task3_graph\graph.h(43,1): error C2244: Graph<T>::Graph: не удается сопоставить определение функции существующему объявлению
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\С++\task3_graph\task3_graph\graph.h(42,11): message : см. объявление "Graph<T>::Graph"
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\С++\task3_graph\task3_graph\graph.h(43,1): message : определение
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\С++\task3_graph\task3_graph\graph.h(43,1): message : 'Graph<T>::Graph(std::vector<Edge<T>,std::allocator<Edge<T>>> &)'
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\С++\task3_graph\task3_graph\graph.h(43,1): message : существующие объявления
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\С++\task3_graph\task3_graph\graph.h(43,1): message : 'Graph<T>::Graph(void)'
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\С++\task3_graph\task3_graph\graph.h(20,5): error C2535: Graph<int>::Graph(void): функция-член уже определена или объявлена
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\С++\task3_graph\task3_graph\graph.h(18,5): message : см. объявление "Graph<int>::Graph"
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\С++\task3_graph\task3_graph\graph.h(20,5): error C2535: Graph<std::string>::Graph(void): функция-член уже определена или объявлена
+C:\Users\romse\OneDrive\Рабочий стол\3 курс\С++\task3_graph\task3_graph\graph.h(18,5): message : см. объявление "Graph<std::string>::Graph"
